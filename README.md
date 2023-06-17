@@ -23,7 +23,30 @@ FIFO (First-In-First-Out) is a commonly used data structure that buffers data be
 Synchronous FIFOs use a clock signal to synchronize the read and write operations. They are commonly used in high-speed digital systems where precise timing is crucial.Asynchronous FIFOs transfer data without using a clock signal. They are commonly used in low-speed digital systems where timing is less critical.
 The design methodology for synchronous and asynchronous FIFOs is different due to their different operating characteristics. Synchronous FIFOs typically use flip-flops and counters to store and track the data, while asynchronous FIFOs use dual-port RAM and control logic. The designer must carefully consider timing constraints and signal protocols to ensure reliable and efficient data transfer between components. synchronous and asynchronous FIFOs have different operating characteristics and require different design methodologies. Synchronous FIFOs use a clock signal and are used in high-speed systems, while asynchronous FIFOs transfer data without a clock signal and are used in low-speed systems. The designer must carefully consider timing constraints and signal protocols to ensure reliable and efficient data transfer between components.
 ![image](https://github.com/Rakshathacharya/mini-project/assets/93918733/77da5b28-146d-419f-b23f-601b017ca306)
+
 ![image](https://github.com/Rakshathacharya/mini-project/assets/93918733/f37ab4f3-c3a1-4f16-afe6-2ae918d1b11e)
+![image](https://github.com/Rakshathacharya/mini-project/assets/93918733/753edc14-3314-4e10-a37a-0519b8bcfa8e)
+### 5. TIME SCHEDULE
+|TIME ALLOCATED|WORK PLANNED|
+| :-: | :-: |
+|1/4/2023 to 15/4/2023|Advanced study on cadence tools and techniques|
+|16/4/2023 to 30/4/2023|Literature Survey|
+|1/5/2023 to 30/5/2023|Studying and designing of synchronous and asynchronous FIFOs|
+|31/5/2023 to 20/6/2023|Comparative analysis about synchronous and asynchronous FIFOs|
+### REFERENCE
+[1] Kumar, Ashok, and V. Karunakar Reddy. "Advanced FIFO Structure for Router in Bi-NoC." 2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS). IEEE, 2021.
+[2] Sharma, Ashish, et al. "Reducing fifo buffer power using architectural alternatives at rtl." 2016 20th International Symposium on VLSI Design and Test (VDAT). IEEE, 2016.
+[3] Gordon-Ross, Ann, Saleh Abdel-Hafeez, and Mohamad Hammam Alsafrjalni. "A One-Cycle FIFO Buffer for Memory Management Units in Manycore Systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
+[4] Xu, Jinfu, et al. "An unified online fault-tolerant mechanism for FIFO faults in network-on-chip router." 2016 13th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT). IEEE, 2016.
+[5] Ghoshal, Bibhas, et al. "In-field test for permanent faults in FIFO buffers of NoC routers." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 24.1 (2015): 393-397.
+[6] Ashour, Haytham. "Design, simulation and realization of a parameterizable, configurable and modular asynchronous FIFO." 2015 Science and Information Conference (SAI). IEEE, 2015.
+[7] Abdel-Hafeez, Saleh, and Muhannad Quwaider. "A one-cycle asynchronous FIFO queue buffer circuit." 2020 11th International Conference on Information and Communication Systems (ICICS). IEEE, 2020.
+[8] Sharmaa, Shruti. "Implementation of an RTL synthesizable asynchronous FIFO for conveying data by avoiding actual data movement via FIFO." 2015 6th International Conference on Computing, Communication and Networking Technologies (ICCCNT). IEEE, 2015.
+[9] Liu, Gengting, et al. " Asynchronous interface FIFO design on FPGA for high-throughput NRZ synchronization."  2017 27th International Conference on Field Programmable Logic and Applications (FPL). IEEE, 2017.
+[10] Abdelhadi, Ameer MS. "Synthesizable synchronization FIFOs utilizing the asynchronous pulse-based handshake protocol." 2020 IEEE Nordic Circuits and Systems Conference (NorCAS). IEEE, 2020
+
+
+
 
 
 
