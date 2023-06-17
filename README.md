@@ -1,6 +1,6 @@
 # Miniproject
 ## comparitive analysis of synchronous and asynchronous fifo
-### abstract
+### 1. ABSTRACT
 Because of flexibility of application and highest performance, thrills and middle end For a obtained extensive market. As a fundamental memory structure. The FIFO is widely used in FPGA based projects. But limited by the resources in chip and imperfections of development tools, the problem of insufficient memory while the overall capacity is often enough occurs in implementation of multi-channel FIFO. This project surveys various occasion applications of FIFO and puts forward the implementation of FIFO Memory Using Shift registers.
 ###introducton
 Data can be transferred through various communication channels, including copper wires, optical fibers, wireless channels, storage media, and computer buses. High-speed data transfer was achieved through parallel/serial transmission. Parallel transmission groups binary data and transmits them in frames/streaming using n wires. Serial transmission involves transmitting one bit at a time, requiring only one communication channel, which reduces transmission costs. However, conversion devices are required at the interface between the sender and the line and between the line and the receiver. Serial transmission can be asynchronous or synchronous.
