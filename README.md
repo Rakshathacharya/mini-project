@@ -43,14 +43,23 @@ The design methodology for synchronous and asynchronous FIFOs is different due t
 |31/5/2023 to 20/6/2023|Comparative analysis about synchronous and asynchronous FIFOs|
 ### REFERENCE
 [1] Kumar, Ashok, and V. Karunakar Reddy. "Advanced FIFO Structure for Router in Bi-NoC." 2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS). IEEE, 2021.
+
 [2] Sharma, Ashish, et al. "Reducing fifo buffer power using architectural alternatives at rtl." 2016 20th International Symposium on VLSI Design and Test (VDAT). IEEE, 2016.
+
 [3] Gordon-Ross, Ann, Saleh Abdel-Hafeez, and Mohamad Hammam Alsafrjalni. "A One-Cycle FIFO Buffer for Memory Management Units in Manycore Systems." 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI). IEEE, 2019.
+
 [4] Xu, Jinfu, et al. "An unified online fault-tolerant mechanism for FIFO faults in network-on-chip router." 2016 13th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT). IEEE, 2016.
+
 [5] Ghoshal, Bibhas, et al. "In-field test for permanent faults in FIFO buffers of NoC routers." IEEE Transactions on Very Large Scale Integration (VLSI) Systems 24.1 (2015): 393-397.
+
 [6] Ashour, Haytham. "Design, simulation and realization of a parameterizable, configurable and modular asynchronous FIFO." 2015 Science and Information Conference (SAI). IEEE, 2015.
+
 [7] Abdel-Hafeez, Saleh, and Muhannad Quwaider. "A one-cycle asynchronous FIFO queue buffer circuit." 2020 11th International Conference on Information and Communication Systems (ICICS). IEEE, 2020.
+
 [8] Sharmaa, Shruti. "Implementation of an RTL synthesizable asynchronous FIFO for conveying data by avoiding actual data movement via FIFO." 2015 6th International Conference on Computing, Communication and Networking Technologies (ICCCNT). IEEE, 2015.
+
 [9] Liu, Gengting, et al. " Asynchronous interface FIFO design on FPGA for high-throughput NRZ synchronization."  2017 27th International Conference on Field Programmable Logic and Applications (FPL). IEEE, 2017.
+
 [10] Abdelhadi, Ameer MS. "Synthesizable synchronization FIFOs utilizing the asynchronous pulse-based handshake protocol." 2020 IEEE Nordic Circuits and Systems Conference (NorCAS). IEEE, 2020
 
 
