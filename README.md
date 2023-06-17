@@ -22,6 +22,7 @@ Ameer M.S. qbdelhadi et.al.,[10] proposed “Synthesizable Synchronization FIFOs
 FIFO (First-In-First-Out) is a commonly used data structure that buffers data between two components. There are two types of FIFOs: synchronous and asynchronous.
 Synchronous FIFOs use a clock signal to synchronize the read and write operations. They are commonly used in high-speed digital systems where precise timing is crucial.Asynchronous FIFOs transfer data without using a clock signal. They are commonly used in low-speed digital systems where timing is less critical.
 The design methodology for synchronous and asynchronous FIFOs is different due to their different operating characteristics. Synchronous FIFOs typically use flip-flops and counters to store and track the data, while asynchronous FIFOs use dual-port RAM and control logic. The designer must carefully consider timing constraints and signal protocols to ensure reliable and efficient data transfer between components. synchronous and asynchronous FIFOs have different operating characteristics and require different design methodologies. Synchronous FIFOs use a clock signal and are used in high-speed systems, while asynchronous FIFOs transfer data without a clock signal and are used in low-speed systems. The designer must carefully consider timing constraints and signal protocols to ensure reliable and efficient data transfer between components.
+![image](https://github.com/Rakshathacharya/mini-project/assets/93918733/77da5b28-146d-419f-b23f-601b017ca306)
 
 
 
